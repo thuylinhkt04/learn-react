@@ -1,0 +1,26 @@
+.list-item {
+    margin-bottom: 20px;
+
+    span {
+        display: inline-block;
+        padding: 10px 20px;
+    }
+}
+input {
+    padding: 10px;
+}
+
+.remove-btn {
+    background-color: #cdcdcd;
+    cursor: pointer;
+}
+
+.calc {
+    display: inline-block;
+    min-width: 30px;
+    margin: 5px 10px;
+    padding: 6px 15px;
+    border: 1px solid #000;
+    text-align: center;
+    cursor: pointer;
+}
